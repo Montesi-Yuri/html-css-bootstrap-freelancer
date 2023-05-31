@@ -1,3 +1,14 @@
 /* 
 DEBUG
 */
+
+.debug header .col{
+    background-color: aliceblue;
+    border: 1px dashed orange;
+}
+
+.debug header .row{
+    background-color: lightgreen;
+    border: 1px dashed red;
+}
+
