@@ -51,5 +51,14 @@ DEBUG
     background-color: red;
 }
 
+.debug main section:nth-of-type(4) .col{
+    background-color: coral;
+    border: 1px dashed black;
+}
+
+.debug main section:nth-of-type(4){
+    background-color : blue;
+}
+
 
 
