@@ -12,3 +12,19 @@ DEBUG
     border: 1px dashed red;
 }
 
+.debug main section:first-of-type .row{
+    background-color: lightblue;
+    border: 1px dashed red;
+}
+
+.debug main section:first-of-type .col-12{
+    background-color: lightgoldenrodyellow;
+    border: 1px dashed orange;
+}
+
+.debug main section:first-of-type .col{
+    background-color: lightgreen;
+    border: 1px dashed orange;
+}
+
+
