@@ -53,3 +53,15 @@ GENERAL
 .-my-custom-button:hover{
     background-color: #1abc9c81;
 }
+
+.-my-footer-top-bg{
+    background-color: #3A546D;
+}
+
+.-my-footer-bottom-bg{
+    background-color: #2C3E50;
+}
+
+.-my-aqua-text{
+    color: #1ABC9C;
+}
