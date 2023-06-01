@@ -49,3 +49,7 @@ GENERAL
 .black-bg{
     background-color: black;
 }
+
+.-my-custom-button:hover{
+    background-color: #1abc9c81;
+}
