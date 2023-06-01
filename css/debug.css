@@ -12,7 +12,7 @@ DEBUG
     border: 1px dashed red;
 } */
 
-.debug main section:first-of-type .row{
+/* .debug main section:first-of-type .row{
     background-color: lightblue;
     border: 1px dashed red;
 }
@@ -25,7 +25,7 @@ DEBUG
 .debug main section:first-of-type .col{
     background-color: lightgreen;
     border: 1px dashed orange;
-}
+} */
 
 .debug main section:nth-of-type(2) .col-12{
     background-color: violet;
