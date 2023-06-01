@@ -27,7 +27,7 @@ DEBUG
     border: 1px dashed orange;
 } */
 
-.debug main section:nth-of-type(2) .col-12{
+/* .debug main section:nth-of-type(2) .col-12{
     background-color: violet;
     border: 1px dashed orange;
 }
@@ -35,9 +35,9 @@ DEBUG
 .debug main section:nth-of-type(2) .col{
     background-color: lightcyan;
     border: 1px dashed orange;
-}
+} */
 
-.debug main section:nth-of-type(3) .col-12{
+/* .debug main section:nth-of-type(3) .col-12{
     background-color: violet;
     border: 1px dashed orange;
 }
@@ -49,7 +49,7 @@ DEBUG
 
 .debug main section:nth-of-type(3){
     background-color: red;
-}
+} */
 
 .debug main section:nth-of-type(4) .col{
     background-color: coral;

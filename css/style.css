@@ -23,6 +23,29 @@ GENERAL
     border-radius: 5px;
 }
 
+.-my-custom-hr-dark{
+    background-color: #2C3E50;
+    height: 5px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.dark-star{
+    color: #2C3E50;
+}
+
 .-my-aqua-bg{
     background-color: #1ABC9C;
+}
+
+.pink-bg{
+    background-color: #BA4B63;
+}
+
+.light-blue-bg{
+    background-color: #1EA4B6;
+}
+
+.black-bg{
+    background-color: black;
 }
