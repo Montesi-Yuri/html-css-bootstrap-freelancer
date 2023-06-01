@@ -2,7 +2,7 @@
 DEBUG
 */
 
-.debug header .col{
+/* .debug header .col{
     background-color: aliceblue;
     border: 1px dashed orange;
 }
@@ -10,7 +10,7 @@ DEBUG
 .debug header .row{
     background-color: lightgreen;
     border: 1px dashed red;
-}
+} */
 
 .debug main section:first-of-type .row{
     background-color: lightblue;
